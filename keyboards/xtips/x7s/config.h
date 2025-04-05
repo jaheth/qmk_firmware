@@ -2,7 +2,7 @@
 
 /* RGBLIGHT configuration */
 #define WS2812_DI_PIN A9
-#define RGBLED_NUM 2
+//#define RGBLED_NUM 2
 #define RGBLED_MAP { 1, 0 }
 #define RGBLED_SPLIT { 1, 1 }
 #define RGBLIGHT_LAYERS
